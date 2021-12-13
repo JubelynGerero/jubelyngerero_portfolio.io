@@ -184,12 +184,12 @@ section .title::after{
 .home .home-content .text-1{
     font-size: 27px;
 }
-.home .home-content .text-3{
+.home .home-content .text-2{
     font-size: 35px;
     font-weight: 600;
     margin-left: -3px;
 }
-.home .home-content .text-2{
+.home .home-content .text-3{
     font-size: 30px;
     margin: 5px 0;
 }
@@ -390,19 +390,19 @@ section .title::after{
     object-fit: cover;
     border-radius: 4px;
 }
-.skills-content .right .html::before{
+.skills-content .right .traditional::before{
     width: 90%;
 }
-.skills-content .right .css::before{
+.skills-content .right .digital::before{
     width: 70%;
 }
-.skills-content .right .js::before{
+.skills-content .right .graphic::before{
     width: 50%;
 }
-.skills-content .right .php::before{
+.skills-content .right .writing::before{
     width: 90%;
 }
-.skills-content .right .mysql::before{
+.skills-content .right .creativity::before{
     width: 99%;
 }
 
